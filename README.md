@@ -15,7 +15,7 @@ This project demonstrates how to create modern glowing animations with customiza
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project](https://your-netlify-link.netlify.app)
+🔗 [View Project](https://devlopersp.github.io/neon-star-animation/)
 
 ---
 
